@@ -4,14 +4,6 @@
 
 Perfect for developers learning modern web development, full-stack architecture, or building SaaS business tools.
 
----
-
-## Watch the Full Tutorial
-
-[Watch on YouTube](#) *(Link coming soon)*
-
----
-
 ## Tech Stack
 
 | Technology         | Purpose |
